@@ -7,4 +7,5 @@
     font-weight: bold;
     align-self: center;
     line-height: 96px;
+    z-index: 0;
   }
